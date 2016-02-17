@@ -1,0 +1,28 @@
+name: makepl.us
+favicon: null
+layout_spectrum: 0.9428588389419019
+typography_spectrum: 0.8455979297868907
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8443162282928824
+  lightness: 0.3959989193826914
+  saturation: 0.27203376893885434
+  rhythmicContrast: 0.9820701673161238
+purpose: []
